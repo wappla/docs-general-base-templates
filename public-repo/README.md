@@ -1,5 +1,8 @@
 # Project Title
 
+
+[![GitHub release][img-version-badge]][repo] [![CodeClimate][img-code-climate-badge]][code-climate] [![Build Status][img-travis-ci]][travis-ci] [![Code of Conduct][coc-badge]][coc] [![PRs Welcome][prs-badge]][prs]
+
 One Paragraph of project description goes here
 
 ## Getting Started
