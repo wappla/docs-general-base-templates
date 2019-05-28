@@ -1,7 +1,8 @@
 # Project Title
 
 
-[![GitHub release](https://img.shields.io/github/release/wappla/docs-general-base-templates.svg)](https://github.com/wappla/docs-general-base-templates/releases/)  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/docs-general-base-templates/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/wappla/docs-general-base-templates.svg?style=flat-square)](https://github.com/wappla/docs-general-base-templates/releases/)  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/docs-general-base-templates/blob/master/LICENSE)  [![GitHub pull-requests](https://img.shields.io/github/issues-pr/wappla/docs-general-base-templates.svg?style=flat-square)](https://GitHub.com/wappla/docs-general-base-templates/pull/)  [![GitHub issues](https://img.shields.io/github/issues/wappla/docs-general-base-templates.svg?style=flat-square)](https://GitHub.com/wappla/docs-general-base-templates/issues/)
+
 
 **Some extra badges**
 
