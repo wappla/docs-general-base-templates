@@ -83,6 +83,11 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
+## About us
+
+[Wappla BVBA](https://www.wappla.com/)
+We shape, build and grow ambitious digital products.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/wappla/docs-general-base-templates/blob/master/LICENSE) file for details
