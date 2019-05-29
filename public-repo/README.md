@@ -1,43 +1,37 @@
 <h1 align="center">Package/Project Title</h1>
 <br />
+
+[![GitHub release](https://img.shields.io/github/release/wappla/docs-general-base-templates.svg?style=flat-square)](https://github.com/wappla/docs-general-base-templates/releases/)  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/docs-general-base-templates/blob/master/LICENSE)  [![GitHub pull-requests](https://img.shields.io/github/issues-pr/wappla/docs-general-base-templates.svg?style=flat-square)](https://GitHub.com/wappla/docs-general-base-templates/pull/)  [![GitHub issues](https://img.shields.io/github/issues/wappla/docs-general-base-templates.svg?style=flat-square)](https://GitHub.com/wappla/docs-general-base-templates/issues/)
+
 <div align="center">
   <h3>
-    <a href="#">
-      Website
+    <a href="about-us">
+      About Us
     </a>
     <span> | </span>
-    <a href="#">
-      Handbook
+    <a href="#getting-started">
+      Installation
     </a>
     <span> | </span>
-    <a href="#">
-      Ecosystem
+    <a href="#license">
+      License
     </a>
     <span> | </span>
-    <a href="#">
+    <a href="#contributing">
       Contributing
     </a>
     <span> | </span>
-    <a href="#">
-      Reddit
-    </a>
-    <span> | </span>
-    <a href="#">
-      Chat
-    </a>
   </h3>
 </div>
 
 <div align="center">
   <sub>Built with ❤︎ by
-  <a href="#">Wappla</a> and
+  <a href="#about-us">Wappla</a> and
   <a href="https://github.com/wappla/docs-general-base-templates/graphs/contributors">
     contributors
   </a>
 </div>
 
-
-[![GitHub release](https://img.shields.io/github/release/wappla/docs-general-base-templates.svg?style=flat-square)](https://github.com/wappla/docs-general-base-templates/releases/)  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/docs-general-base-templates/blob/master/LICENSE)  [![GitHub pull-requests](https://img.shields.io/github/issues-pr/wappla/docs-general-base-templates.svg?style=flat-square)](https://GitHub.com/wappla/docs-general-base-templates/pull/)  [![GitHub issues](https://img.shields.io/github/issues/wappla/docs-general-base-templates.svg?style=flat-square)](https://GitHub.com/wappla/docs-general-base-templates/issues/)
 
 
 **Some extra badges**
