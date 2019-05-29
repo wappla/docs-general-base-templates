@@ -1,12 +1,7 @@
-<img style="text-align:center;width:50%" src="https://github.com/wappla/docs-general-base-templates/blob/master/wappla-logo.png" />
 <h1 align="center">Package/Project Title</h1>
 <div align="center">
   
 [![GitHub release](https://img.shields.io/github/release/wappla/docs-general-base-templates.svg?style=flat-square)](https://github.com/wappla/docs-general-base-templates/releases/)  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/docs-general-base-templates/blob/master/LICENSE)  [![GitHub pull-requests](https://img.shields.io/github/issues-pr/wappla/docs-general-base-templates.svg?style=flat-square)](https://GitHub.com/wappla/docs-general-base-templates/pull/)  [![GitHub issues](https://img.shields.io/github/issues/wappla/docs-general-base-templates.svg?style=flat-square)](https://GitHub.com/wappla/docs-general-base-templates/issues/)
-
-</div>
-<br />
-<div align="center">
   <h3>
     <a href="about-us">
       About Us
@@ -25,16 +20,12 @@
     </a>
     <span> | </span>
   </h3>
-</div>
-<div align="center">
-  <sub>Built with ❤︎ by
+    <sub>Built with ❤︎ by
   <a href="#about-us">Wappla</a> and
   <a href="https://github.com/wappla/docs-general-base-templates/graphs/contributors">
     contributors
   </a>
 </div>
-
-
 
 **Some extra badges**
 
