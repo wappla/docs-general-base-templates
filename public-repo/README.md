@@ -1,3 +1,4 @@
+<img style="text-align:center;width:50%" src="https://github.com/wappla/docs-general-base-templates/blob/master/wappla-logo.png" />
 <h1 align="center">Package/Project Title</h1>
 <div align="center">
   
