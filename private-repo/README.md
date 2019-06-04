@@ -8,9 +8,17 @@ Short description about this project
 
 Where to find passwords, step by step install
 
-## Deployment Checklist
+## Deployment
 
-Click the button on Envoyer, 
+### Staging
+
+### Production
+
+### Production Checklist
+
+Click the button on Envoyer,
+
+## Endpoint docs
 
 ## Configuration
 
