@@ -8,6 +8,10 @@ Short description about the goal of this repository
 
 ## Table of Contents
 
+## Production server configuration
+
+For example: php version, mysql/postgress/mongo/..., node
+
 ## Development Setup
 
 Where to find passwords, step by step install
