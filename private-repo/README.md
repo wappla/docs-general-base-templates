@@ -2,7 +2,15 @@
 
 Short description about this project
 
+#### What is this repository for?
+
+Short description about the goal of this repository
+
 ## Table of Contents
+
+## Production server configuration
+
+For example: php version, mysql/postgress/mongo/..., node
 
 ## Development Setup
 
@@ -19,6 +27,7 @@ Where to find passwords, step by step install
 Click the button on Envoyer,
 
 ## Endpoint docs
+[API endpoints](docs/API-endpoints.md)
 
 ## Configuration
 
