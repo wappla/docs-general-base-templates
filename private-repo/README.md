@@ -8,6 +8,11 @@ Short description about the goal of this repository
 
 ## Table of Contents
 
+<!-- START doctoc -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<!-- https://github.com/thlorenz/doctoc -->
+<!-- END doctoc -->
+
 ## Production server configuration
 
 For example: php version, mysql/postgress/mongo/..., node
