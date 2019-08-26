@@ -10,6 +10,7 @@ Short description about the goal of this repository
 
 <!-- START doctoc -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<!-- doctoc README.md --github -->
 <!-- https://github.com/thlorenz/doctoc -->
 <!-- END doctoc -->
 
