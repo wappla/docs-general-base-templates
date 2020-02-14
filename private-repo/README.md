@@ -6,13 +6,16 @@ Short description about this project
 
 Short description about the goal of this repository
 
-## Table of Contents
+<details>
+    <summary>Table of Contents</summary>
 
 <!-- START doctoc -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-<!-- doctoc README.md --github -->
 <!-- https://github.com/thlorenz/doctoc -->
+<!-- doctoc README.md --github -->
 <!-- END doctoc -->
+
+</details>
 
 ## Production server configuration
 

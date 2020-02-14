@@ -15,12 +15,19 @@
 [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 [![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
+<details>
+    <summary>Table of Contents</summary>
+
+<!-- START doctoc -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<!-- https://github.com/thlorenz/doctoc -->
+<!-- doctoc README.md --github -->
+<!-- END doctoc -->
+
+</details>
+
 ## Motivation
 One Paragraph of project description goes here
-
-## Table of contents
-
-doc-toc can be used to automate this: https://github.com/thlorenz/doctoc
 
 ## Getting Started
 
